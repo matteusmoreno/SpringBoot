@@ -33,7 +33,6 @@ O projeto utiliza o MySQL como banco de dados. Certifique-se de criar um banco d
 1. Clone este repositório para o seu ambiente local.
 2. Certifique-se de ter o Java 17 instalado.
 3. Configure as credenciais do banco de dados no arquivo `application.properties`.
-4. Execute o aplicativo usando o seguinte comando:
    
 ## Documentação da API
 
