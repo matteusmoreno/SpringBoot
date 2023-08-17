@@ -26,7 +26,7 @@ Este projeto é um exercício educacional focado na construção de uma API Poke
 
 1. Clone este repositório:
 
-   git clone https://github.com/matteusmoreno/SpringBoot/pokedex
+   git clone https://github.com/matteusmoreno/SpringBoot.git
 
 2. Crie um banco de dados MySQL chamado `pokedex`.
 
