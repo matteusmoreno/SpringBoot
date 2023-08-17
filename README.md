@@ -23,7 +23,7 @@ Para executar qualquer um dos projetos neste repositório, siga estas etapas:
 
 Sinta-se à vontade para entrar em contato comigo através de:
 
-- [LinkedIn](https://linkedin.com/matteusmoreno)
+- [LinkedIn](https://www.linkedin.com/in/matteusmoreno/)
 - [GitHub](https://github.com/matteusmoreno)
 
 Não hesite em me contatar se tiver alguma pergunta ou interesse em colaborar em algum projeto. Obrigado por visitar meu portfólio de projetos Java com Spring Framework!
